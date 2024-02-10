@@ -37,3 +37,12 @@ print(f"Age of the person in seconds is {age_in_seconds} and assuming he would l
 a = 9.8
 b = 10
 print(a == b)
+
+#BODMAS
+a = 3
+b = 11
+c = 2
+result = b // a + c % c
+print("Result of BODMAS is ", result)
+
+
